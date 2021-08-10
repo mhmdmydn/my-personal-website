@@ -7,7 +7,7 @@ router.get('/', (req, res) => {
 
     res.render('index', {
         layout: 'layouts/main',
-        title: "Home",
+        title: "Portfolio",
     });
     
 });
