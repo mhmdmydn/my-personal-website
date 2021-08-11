@@ -1,6 +1,6 @@
 var fileToCache = [
-	"./",
-	"./css/syle.css"
+    "/css/style.css",
+    "/js/script.js"
 ];
 
 self.addEventListener("install", e=>{
